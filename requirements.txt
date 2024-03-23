@@ -1,0 +1,10 @@
+requests
+random
+smtplib
+email.mime.text 
+MIMEText
+email.mime.base 
+MIMEBase
+femail.mime.multipart 
+MIMEMultipart
+encoders
